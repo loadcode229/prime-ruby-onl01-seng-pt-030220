@@ -9,5 +9,5 @@ end
 
 def prime?(num)
   i = 1
-  if
+  if num <= 1 ||
 end
