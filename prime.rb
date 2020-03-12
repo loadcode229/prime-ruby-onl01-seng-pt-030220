@@ -6,3 +6,8 @@ def prime?(num)
   end
   return true
 end
+
+def prime?(num)
+  i = 1
+  if
+end
