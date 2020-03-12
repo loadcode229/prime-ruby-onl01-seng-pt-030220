@@ -6,3 +6,7 @@ def prime?(num)
   end
   true
 end
+
+def prime?(num)
+  if num < 1
+    
