@@ -13,6 +13,8 @@ def prime?(num)
     return false
   elsif 2(i-1).each do |i|
     if num % i == 0
-      
-      
+      return false
+    end
+  end
+  true
 end
