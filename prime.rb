@@ -1,3 +1,3 @@
-def prime?(integer)
-  answer = false
-  integer.
+def prime?(integers)
+  
+end
