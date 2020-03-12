@@ -5,5 +5,6 @@ def prime?(num)
     i += 1
     false
   end
+  end
   true
 end
