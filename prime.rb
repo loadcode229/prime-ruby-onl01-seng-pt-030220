@@ -8,5 +8,8 @@ def prime?(num)
 end
 
 def prime?(num)
-  if num < 1
+  if num <= 1
+    return false
+  elsif num <= 3
+  
     
