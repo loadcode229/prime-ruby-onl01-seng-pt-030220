@@ -1,4 +1,4 @@
 def prime?(integers)
-  Prime.each do |prime|
+  Prime.each(100) do |prime|
     
 end
