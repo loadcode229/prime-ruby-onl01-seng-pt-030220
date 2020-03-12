@@ -13,5 +13,5 @@ def prime?(num)
   elsif num <= 3
     return true
   else
-    2(num - 1)
+    2..(num - 1)
     
